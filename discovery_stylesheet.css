@@ -1,0 +1,49 @@
+h2{
+      color: black;
+      font-family: courier new;
+      font-size: 35px;
+      text-align: center;
+      text-decoration: underline;
+
+}
+
+h3 {
+    color: black;
+    font-family: arial;
+  font-size: 25px;
+   text-decoration: underline;
+  font-weight: bold;
+  text-align: left;
+}
+
+dd {
+     font-size: 20px;
+     text-align: left;
+   }
+
+
+
+img {
+       transition: height 1s;
+       height: 18vw;
+       border-radius: 25px;
+       display: block;
+       margin: auto auto;
+     }
+
+img:hover {
+             height: 30vw;
+}
+
+
+
+
+.imgContainer {
+                 display: inline-block;
+}
+
+.fix {
+       bottom: 0px;
+       display: block;
+       margin: auto auto;
+     }
